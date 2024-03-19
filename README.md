@@ -12,5 +12,6 @@ The project-based learning approach implemented in this course is my preferred w
 
 ### Day 1 (Band Name Generator)
 > March 19, 2024
+
 This project required me to use `print` statements as well as `input` to get user input. There was also a minor application of formatted string.
 *Difficulty rating: 1*
