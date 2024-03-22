@@ -17,3 +17,9 @@ This project required me to use `print` statements as well as `input` to get use
 
 *Difficulty rating: 1*
 ___
+### Day 2 (Tip Calculator)
+> March 21, 2024
+
+This project enabled me to think about getting the right input from the user, and also make my code more readable, scalable and efficient with the help of functions.
+
+*Difficulty rating: 1.5*
