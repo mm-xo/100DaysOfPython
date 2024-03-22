@@ -42,7 +42,7 @@ def inputChecker(question):
             if isinstance(answer, float):  
                 flag = False  
         except ValueError:  
-            print("Invalid input. Please enter a valid float.")  
+            print("Invalid input. Please enter a valid number.")  
     return answer 
 
 bill = inputChecker("What was the total bill? ")
